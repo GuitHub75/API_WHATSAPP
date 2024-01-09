@@ -1,0 +1,11 @@
+C:\Users\Globalpay\source\repos\WhatsappNet\WhatsappNet.API\obj\Release\net7.0\PubTmp\Out\WhatsappNet.API.exe
+C:\Users\Globalpay\source\repos\WhatsappNet\WhatsappNet.API\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Globalpay\source\repos\WhatsappNet\WhatsappNet.API\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\Globalpay\source\repos\WhatsappNet\WhatsappNet.API\obj\Release\net7.0\PubTmp\Out\WhatsappNet.API.dll
+C:\Users\Globalpay\source\repos\WhatsappNet\WhatsappNet.API\obj\Release\net7.0\PubTmp\Out\WhatsappNet.API.deps.json
+C:\Users\Globalpay\source\repos\WhatsappNet\WhatsappNet.API\obj\Release\net7.0\PubTmp\Out\WhatsappNet.API.runtimeconfig.json
+C:\Users\Globalpay\source\repos\WhatsappNet\WhatsappNet.API\obj\Release\net7.0\PubTmp\Out\WhatsappNet.API.pdb
+C:\Users\Globalpay\source\repos\WhatsappNet\WhatsappNet.API\obj\Release\net7.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Globalpay\source\repos\WhatsappNet\WhatsappNet.API\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Globalpay\source\repos\WhatsappNet\WhatsappNet.API\obj\Release\net7.0\PubTmp\Out\OpenAI_API.dll
+C:\Users\Globalpay\source\repos\WhatsappNet\WhatsappNet.API\obj\Release\net7.0\PubTmp\Out\System.Security.Permissions.dll
